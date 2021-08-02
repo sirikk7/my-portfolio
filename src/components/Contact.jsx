@@ -1,4 +1,4 @@
 import react from "react";
-export default function Contact(){
-    return <div> Contact</div>
-};
+export default function Contact() {
+  return <div> Contact</div>;
+}

@@ -4,22 +4,22 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import "./App.css"
+import "./App.css";
 
+export default function App() {
+  return (
+    <div>
+      <Header />
 
-export default function App(){
-    return(<div>
-        <Header />
-    
-    <main>
-        <Navbar/>
-        <About/>
-        <Contact/>
-        <Skills/>
-        <Projects/>
-    </main>
+      <main>
+        <Navbar />
+        <About />
+        <Contact />
+        <Skills />
+        <Projects />
+      </main>
 
-    <Footer />
+      <Footer />
     </div>
-    );
+  );
 }
