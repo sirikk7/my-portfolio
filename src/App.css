@@ -243,7 +243,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #055160;
   text-decoration: underline;
 }
 a:hover {
@@ -7701,7 +7701,7 @@ fieldset:disabled .btn {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #bd5d38 !important;
+  color: #055160 !important;
 }
 
 .text-secondary {
@@ -7757,7 +7757,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #055160 !important;
 }
 
 .bg-secondary {
