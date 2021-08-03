@@ -8,7 +8,7 @@ export default function About() {
           <span className="text-primary"> K</span>
         </h1>
         <div className="subheading mb-5">
-          301 C-Block· Risinia Intellipark,500090 , Hyd.(+91) 9581463184·
+          301 C-Block· Risinia Intellipark,500090 , Hyd.{" "}
           <a href="mailto:siri.kk7@gmail.com">siri.kk7@gmail.com</a>
         </div>
         <p className="lead mb-5">
